@@ -1,0 +1,9 @@
+body div{
+    width: 100%;
+    height: auto;
+    background-color: #2a2a89;
+    padding: 20px 40px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center
+}
